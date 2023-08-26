@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FCTyEqkn/versions/xPFOMUfH/whereisit-2.0.20.jar"
-hash-format = "sha512"
-hash = "abff9a8b40efbcc6cef1804fe57a652051d14698d57826cdbca3b955f7c2ba9ad1c55977a270d7652b83ae1ef7801601f85f8c66dfaa0aaeb918f526d3930f60"
+hash-format = "sha1"
+hash = "ecc5be20c688efc82910f124e8f83f3c9f21d538"
 
 [update]
 [update.modrinth]

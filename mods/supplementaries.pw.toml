@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/pMfPNF5Z/supplementaries-1.20-2.5.28-fabric.jar"
-hash-format = "sha512"
-hash = "302e9df21224788f28129624525e23d38e6c560ee13c3664214b1c15f54eaacea68753bdf6cccb027e641520ece7ba5205c3cb19d6a122a6724278792becfd71"
+hash-format = "sha1"
+hash = "5f481871a650d240b60dae55a34d315b55d55b74"
 
 [update]
 [update.modrinth]

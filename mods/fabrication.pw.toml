@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/B3Eg0WhA/versions/9nSI4Am1/fabrication-3.3.1%2B1.20.jar"
-hash-format = "sha512"
-hash = "e79b49245b4f3b5ede8ef43a97454b75f0145a04808286514fff4811ca785ee157aa6a453d7019dfbf927b4bebdd44ebd8d79063dabb8f6f75ffad2c5ae109fa"
+hash-format = "sha1"
+hash = "caec78328ac5e7b76e9a89dcca3d532faade7576"
 
 [update]
 [update.modrinth]

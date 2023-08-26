@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/VYOybYzW/versions/sAJ8egdA/affectionate-1.1.3%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "e88130ddf37e7448b3c57bc0ee3052b805a256684f7bdb155719a73a72bc7a526c7d247b678af77057c3018c57346b65234cf4e913eec1f14c0627436410aa3e"
+hash-format = "sha1"
+hash = "181dd376eccb67bfa0e4a81df34016ae197f4708"
 
 [update]
 [update.modrinth]

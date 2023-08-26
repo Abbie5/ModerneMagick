@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/UbOpZw7q/versions/dIS3w9bA/amethyst_core-1.2.2%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "5c50ff91e27a5504015ad55048e9ce3b22081fe473b394b8c68e274e43254114b854a34119776515dbdb11a548f5855741a923f9d912d57ec506553e213ce68c"
+hash-format = "sha1"
+hash = "c2d567722c07783159bfbbbd83da5aeb4f7febe6"
 
 [update]
 [update.modrinth]

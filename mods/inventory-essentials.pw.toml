@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Boon8xwi/versions/zjHwasp6/inventoryessentials-fabric-1.20-8.0.0.jar"
-hash-format = "sha512"
-hash = "766caf2b0e7aadd781a5bb15ae5930c7aef0aca2806ececdcb2ffab114ac9bb934f76d1be59323dbd4b01b785fa8f605f8037b8d13fb746505fb3b83afc12512"
+hash-format = "sha1"
+hash = "f65f597f671ab48d61bbbf3ab8c14ccb40655b6d"
 
 [update]
 [update.modrinth]

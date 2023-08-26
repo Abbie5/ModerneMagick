@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XvoWJaA2/versions/zmkGvUFy/spell_engine-fabric-0.9.29%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "ec0227ea48b2b5d9939c156c2b19622c5f5c5b6b7ce1bee63ac9937d61af0ee8ecc9b7f0c41e76b3ff6e712483f9dc8cae1c1663e5d7619ae2d56b702b0ad4ce"
+hash-format = "sha1"
+hash = "6a67acb28fe50f53be0f1a2b7edcb7ce0ca36112"
 
 [update]
 [update.modrinth]

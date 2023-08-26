@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XIpMGI6r/versions/7msgkeH4/gazebo-fabric-1.0.1%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "4da7e2183aae854cd73614b03bc7843953da80200e2fe9042c7172ab5956a2ee4a60c5ec5513f6d05ed9bb03c3736bd00ef4568e2509dcbc8c0ad38052275371"
+hash-format = "sha1"
+hash = "d4dbe0ed55f65b255654dcf242cc1af2ea960bb0"
 
 [update]
 [update.modrinth]

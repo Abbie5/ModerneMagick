@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/DynYZEae/versions/K6M9zSF8/exordium-fabric-1.1.4-mc1.20.1.jar"
-hash-format = "sha512"
-hash = "80dde821e2d0c93c5489ec240ea92f6dbb3e5d0a8f412bbf55063381100bffb7149b2624db34d3dc2c8d8b348910f3452fd07dd82da9f18e5cb402074e28be5b"
+hash-format = "sha1"
+hash = "458a0491a9c612f722287f8b74605cb5807f6be5"
 
 [update]
 [update.modrinth]

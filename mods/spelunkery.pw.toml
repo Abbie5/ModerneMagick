@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/krskFMfA/versions/kmuYK7AP/spelunkery-1.20.1-0.3.1-fabric.jar"
-hash-format = "sha512"
-hash = "b130237e99ba857dfb53021ac91c40cab799d29357df93644663b911e6afd2a8b7f4420e3bf4b6fcaba77644eee00e5d50840b2c301c991b4ca9026bca2ba253"
+hash-format = "sha1"
+hash = "fab581409ed0fc0891c376be3795b37097489aea"
 
 [update]
 [update.modrinth]

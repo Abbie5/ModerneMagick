@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/HtGckJVc/versions/eZTLtNPr/stack-to-nearby-chests-mc1.20.1-0.3.2.jar"
-hash-format = "sha512"
-hash = "aadc5b9b7d619ac51cfe40f31b168e89f4f1aa9f8532947133f04369dc75b377642af25f28b8b04484fa5501e15ad06f7a2ad0160b23c05fcb54742d464fc090"
+hash-format = "sha1"
+hash = "62fa20ff8221e1b7573e04aca797f2d84dbe45bf"
 
 [update]
 [update.modrinth]

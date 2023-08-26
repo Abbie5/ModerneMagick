@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/SsIkH9rZ/versions/QBNkihJ7/diet-quilt-2.1.0%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "552aacbb9da508f2bfa588d4b43f9cc8e486b3cfa50f0e1f56a430e9c335b42b5b456f1790a2f46e3e649c75f5694c3fcca46ed3346cd296b7ceba1e95acbb46"
+hash-format = "sha1"
+hash = "db1bc4e86780ae502d5d8a1c526388420f705e99"
 
 [update]
 [update.modrinth]

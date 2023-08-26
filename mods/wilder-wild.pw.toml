@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/Ej7e0VCq/WilderWild-2.1.2-Fabric%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "8382bc91442d21227a27936210b37604b457dc6f3baff989c1c5ba7ad7e11a019f9d0432143dfe5787360a314cc1626bd6f612b00adf7e2241044db878084609"
+hash-format = "sha1"
+hash = "796ce700b2545308ccd8be1c6c5e890cf2539cdf"
 
 [update]
 [update.modrinth]
