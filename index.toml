@@ -453,3 +453,67 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "1fdfcdff9c4d820f43874c0e8e574724c6da93f0ca5b55a425915f5600063c41"
 metafile = true
+
+[[files]]
+file = "resources/data/c/tags/items/crops/onion.json"
+hash = "8d250ed964390b45031dad916d825bb2f4a544b68ab9e04bc88ee34bc71710a6"
+
+[[files]]
+file = "resources/data/c/tags/items/crops/tomato.json"
+hash = "2746a0669fca8e74920b0dc1b5b818cc5369d9de0bf260619303be7679517e7e"
+
+[[files]]
+file = "resources/data/diet/tags/items/fruits.json"
+hash = "c5bd1d36ece5c44ad26525b24e6837e0742df36d72bd02b00a67943e8651e07a"
+
+[[files]]
+file = "resources/data/diet/tags/items/grains.json"
+hash = "d4d62617f250a5d7de8c04d77e0a4c7f19490c225aab987d0bc61a1b9a0c31d4"
+
+[[files]]
+file = "resources/data/diet/tags/items/proteins.json"
+hash = "9cd9f0e3537d8932bcc4a9f7678a0ecc45e632309affa1fcb806278425723f3b"
+
+[[files]]
+file = "resources/data/diet/tags/items/sugars.json"
+hash = "9755d22baae21e4424d708b5f10a9e58bb6ca3cc019261a1eb7b9a3439ae0b82"
+
+[[files]]
+file = "resources/data/diet/tags/items/vegetables.json"
+hash = "7e428f33e02ef3d16eb970ee70735811b21defcb0fd0a5fa9670699426d11442"
+
+[[files]]
+file = "resources/data/modernmagick/recipes/apple_pie_slice.json"
+hash = "d1be37df80699760e8414f77d8e80854d2fee05cff85f408bcd7f206b356f5a6"
+
+[[files]]
+file = "resources/data/modernmagick/recipes/bundt_cake_slice.json"
+hash = "4b4968adaa08d8c8c0015011f644c81a0e4be77f6399e039c9fc1efb8faa5dc8"
+
+[[files]]
+file = "resources/data/modernmagick/recipes/chocolate_cake_slice.json"
+hash = "bc19a004d505d5f7453999468e53002b9a6ce3bc5cbf3a9c2f30a52c494d1753"
+
+[[files]]
+file = "resources/data/modernmagick/recipes/chocolate_tart_slice.json"
+hash = "2f22600afd67d476afe1704f254940692f1dab9512ec55bdad23525cc82e2758"
+
+[[files]]
+file = "resources/data/modernmagick/recipes/glowberry_pie_slice.json"
+hash = "c9061e3725825524352057813cd2d979a65547dd0f98c9c66ded4bf545a7126e"
+
+[[files]]
+file = "resources/data/modernmagick/recipes/linzer_tart_slice.json"
+hash = "ba777d3dc7879e1c767249d8b43e7d865ac03af07d29fa35b295a52404eb1d55"
+
+[[files]]
+file = "resources/data/modernmagick/recipes/pudding_slice.json"
+hash = "03559d83957f0374d93d34c989e76e20989932b8dd22bd49fa12786b613c4e2c"
+
+[[files]]
+file = "resources/data/modernmagick/recipes/strawberry_cake_slice.json"
+hash = "724db6d736f1dd866ca4d09c9e64206e62b72f6e2c89635d53b8a346541f0697"
+
+[[files]]
+file = "resources/data/modernmagick/recipes/sweetberry_cake_slice.json"
+hash = "d1aa79967f0256ea526166b6a037f63527b63d9127ef03802cb0335b21279f11"
