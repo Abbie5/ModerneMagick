@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "bakery:bundt_cake"
+		}
+	],
+	"result": {
+		"item": "bakery:bundt_cake_slice",
+		"count": 4
+	}
+}

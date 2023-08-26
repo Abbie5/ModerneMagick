@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "bakery:sweetberry_cake"
+		}
+	],
+	"result": {
+		"item": "bakery:sweetberry_cake_slice",
+		"count": 4
+	}
+}

@@ -1,6 +1,6 @@
 name = "Entity Culling"
 filename = "entityculling-fabric-1.6.2-mc1.20.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"

@@ -1,6 +1,6 @@
 name = "Disable Custom Worlds Advice"
 filename = "DisableCustomWorldsAdvice-4.1.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"

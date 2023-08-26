@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "4c83a50f56dacdd9975b72297d49e1eca0eb29f703ab0e460c2be1322f9154d1"
+hash = "2454a32f9d1fcd9dab75f5f48982f619106484a80e6bf9f62d42e6b25074391b"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "3893329b34b633311e8c6dbf0157d0393c9412419bdbcbdf61bbdfac68c30277"
+hash = "9d441c0c903e5e4341322f0b30d41931de65b8d6afc1154b8f6323b477471be1"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcwa.pw.toml"
-hash = "64bb37613b27f26ec07abb5189ee5c4de08de0402b05c248c2451aefa3b0fd74"
+hash = "dbcc960a6e149e5f017a344851a553af544e22c59c81a75ed7ea7d8bfad1766b"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "a54f7ec94902aa3c2b59dfa50e3d99d58cfbe02ba06117faf6efbd02193ee795"
+hash = "68a8a6fb84395b7e44d7eba4291b41c21f1b67f9453f5e3ccf34ef9be547b079"
 metafile = true
 
 [[files]]
@@ -136,17 +136,17 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "e9025e9f530da02c22be26f2e3aaa13c88266d5836201704c8c481e079c0b6d9"
+hash = "197ad92ac393f71c063237a196b1646e75d3a4e8ab726ee96f942242c83f8ef3"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "174983521b194131c6c1f0d8a65538397166eb7b0ddd08bb02dc558df8ecb344"
+hash = "6f89997cebef1e35bacc8a7ffe31486af0187300ee5155e9401dc8eb94bc2064"
 metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "dd5c4cef1e90a597ad3e03a862f0439612c2ae317c718881816a4c82cf6ee5c7"
+hash = "64843f5bfd2a698c72f0db66a7f3410d65c0a3e88f9e3fd9f9eb2ee878ce1e23"
 metafile = true
 
 [[files]]
@@ -186,12 +186,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0cd1c59269757ddc30ed34e399f15a6c6798159143bf2bda6b84c2208f825add"
+hash = "443649d343a682b2cacd74afd127bb9525515c207a6449565ba00c0e30e17639"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "3fcc38592f3c5c7981486b250dd616b1948ab6d25657b42fb5ff55e76845f98d"
+hash = "5da2b06497f92c40cd259c47b899fa2f3160ad95e28a84b7420a3c04e1cc1edb"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a99c3fe39269476c3bb622c5741256c30850117be92bcfd3640f18994531302d"
+hash = "d1225fb8065e209e07cdf283450e3abc5e3dc8601656387dfb8be047981ba84c"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7c0bf21925cd52ef0b60c27d14326a0394a100c16d6f5d5ca7b6b4c1aebb28a4"
+hash = "52578ec83e3a69428b84f81b7a7c7c9b860f583959a3b41716ba8d87163ebca5"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "52912963e381c9d7f8925685cd5abe699d2906906c9d0becf0ba93c2d11291eb"
+hash = "f8d00e0750b0ff355241d78ed602923b0715d4098bed3c0ce4261dac795d2f96"
 metafile = true
 
 [[files]]
@@ -261,12 +261,12 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "c17482466c51fbe36f2338454adcc3e028ed05a6c5788c5db963ece3e6921c80"
+hash = "cbf3681100dca10306ec2418499beead76ab8e693b44394d9936d91a1ef87590"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "75f91436043347006b14476c33b291dec0df01cfd78e1c7fdd5eb0b5f0bff27b"
+hash = "db390e9dcd9a79f21b30eeed5b0ad0aed258f81785ea08d35d0f7bcbe9d296ec"
 metafile = true
 
 [[files]]
@@ -301,12 +301,12 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "d330b8a2cda9d6c193b92a295f6eeac61274282e92f5b43f17370dec44c8a5f5"
+hash = "12f43a727ddcf24c842cb36927aa742aab61eef474e824299f8c619b93b50b8c"
 metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "59fe6f44d4ad3f29b87d452a7562d0eb2a6269f5206e15645ecd8fcd2acb6734"
+hash = "325168b29f0453949006af827d7f5ac83ce3e342da95a4813d0b3cf3f6bf2cbd"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4ee49779def762bff70f18358d0826d14035b355269e409e193ea6d620b24f4d"
+hash = "43e15624cb1a6b5ba573c1e682b75fc2bf05995372531e40f2a514a86f8b7c42"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/stack-to-nearby-chests.pw.toml"
-hash = "42ad44404e0b6cf2a6228565913c4daa54ada9a1d8dabf64662c1073ff0ac6b0"
+hash = "306448d0214cb380ae694503ad6a2724f34bf1fd6244b49eb179dfccb254b6cb"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "24330390e744a6ce441260e0ea64b389066a0b080e551889e96eee519e732fe4"
+hash = "fcf6f7d2e7243ba9ff5a7a96a993c6f768f3583899de2381183aa6612d855fd9"
 metafile = true
 
 [[files]]
@@ -436,17 +436,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroarrowfix.pw.toml"
-hash = "34984c0d1ac90b9ddd0f3bbce00543bf67fa3b11fb706e7d7fbaadf0e3e90218"
+hash = "206ae6ae6012965d4748ee0644ba1ac999c66f9da39e808a0141dc379c7e3964"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "bb1758ef2ddb3eaac3dd256c8eca373bcca76758a2974c132b2b2a3f15eaba49"
+hash = "5e51516d8f038f9d5fb424887480c8ab6b9fc9d6ec0cc8b58ce666ebd2935756"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5ce1b03525a688118976a22be0eaecc97853b83f3a1bb3da33e590febb39afc5"
+hash = "595334359b0b49f069c87c1e0f2ef5426108a3fefc1da01f71a21b05a220624c"
 metafile = true
 
 [[files]]

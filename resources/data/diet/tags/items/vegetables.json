@@ -1,0 +1,15 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "#nourish:vegetables"
+		},
+		"candlelight:broccoli",
+		"candlelight:tomato",
+		"spelunkery:button_mushroom",
+		"spelunkery:crimini",
+		"spelunkery:portabella",
+		"bewitchment:garlic"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "#nourish:fruit"
+		},
+		"bakery:strawberry",
+		"wilderwild:prickly_pear",
+		"wilderwild:split_coconut",
+		"wilderwild:baobab_nut",
+		"bewitchment:witchberry"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "bakery:pudding"
+		}
+	],
+	"result": {
+		"item": "bakery:pudding_slice",
+		"count": 4
+	}
+}

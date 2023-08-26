@@ -1,6 +1,6 @@
 name = "Stack to Nearby Chests"
 filename = "stack-to-nearby-chests-mc1.20.1-0.3.2.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"

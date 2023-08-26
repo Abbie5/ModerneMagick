@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "bakery:glowberry_tart"
+		}
+	],
+	"result": {
+		"item": "bakery:glowberry_pie_slice",
+		"count": 4
+	}
+}
