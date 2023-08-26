@@ -405,6 +405,11 @@ hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "75ccdfd2f29fbe19c23602d87f3fe79276955878eda6705f138b393077cc482c"
+metafile = true
+
+[[files]]
 file = "mods/victus.pw.toml"
 hash = "4761a66be90dec5fc332af683cc32c6b7178074dc464c71a57133316e731e90d"
 metafile = true
