@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabrication/features.ini"
+hash = "58858a557e883da95c554a1d2b7930ea51bb0522f4651ad01c0886d0921e3594"
+
+[[files]]
 file = "mods/affectionate.pw.toml"
 hash = "18e82b75cf128fc8052d6b027ebeb114a84aef163b9da7c08acb21d651079914"
 metafile = true
