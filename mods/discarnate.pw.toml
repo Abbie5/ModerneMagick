@@ -3,7 +3,6 @@ filename = "Discarnate-2.2.1+1.17.1-1.20.1.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/bEQrnLr7/versions/DDbewQGd/Discarnate-2.2.1%2B1.17.1-1.20.1.jar"
 hash-format = "sha512"
 hash = "c7a521d8914dbbe4a625b9adbed51cff7a55b8f402b866c38c77422292c04287b41f471468b519b405f20c42e0ff85c8137af37fda67c588ce2894978452c6d5"

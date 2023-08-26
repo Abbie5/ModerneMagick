@@ -3,7 +3,6 @@ filename = "letsdo-candlelight-fabric-1.2.4.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/mPND0Adp/versions/KYACVzaK/letsdo-candlelight-fabric-1.2.4.jar"
 hash-format = "sha512"
 hash = "22946f748a34e857da38ce5e905d4755fb35c29660d071934752d49156d76f45a6ed9683cf7ce222892cdd770598e82282de00338c5597ab5c24d60d4f0091b0"

@@ -3,7 +3,6 @@ filename = "Xaeros_Minimap_23.6.3_Fabric_1.20.jar"
 side = "client"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/1bokaNcj/versions/vm3OXacK/Xaeros_Minimap_23.6.3_Fabric_1.20.jar"
 hash-format = "sha512"
 hash = "30fa57af24623d44931ed2f733afc86427e48622aeb568e7df17ccaed6d735fbc4864a98fed24003bea98c0fba0d38c1876a4e2f66b93760376805efe1a32b87"

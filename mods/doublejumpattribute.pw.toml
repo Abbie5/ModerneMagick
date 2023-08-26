@@ -3,7 +3,6 @@ filename = "doublejumpattribute-1.0.9.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/4nXV6zEk/versions/5lxv0sRT/doublejumpattribute-1.0.9.jar"
 hash-format = "sha512"
 hash = "e1bede0307d4b545162b717efa92444ebeb5951224ae6181987363e5d8f0753b1a945aca08e9b798d3b4322d4d61d515249e5aa90ec7e5f94912acd962dff77a"

@@ -3,7 +3,6 @@ filename = "doapi-1.2.6d-fabric.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/4XJZeZbM/versions/gIayaZBp/doapi-1.2.6d-fabric.jar"
 hash-format = "sha512"
 hash = "3a79849a745438663e644ab461e19e6c072bbb594815bf35cb66d1b1016eaee4342c1d91c71c2a2cb0d69e48e546009236952036f8932f5f2fed8101f1898117"

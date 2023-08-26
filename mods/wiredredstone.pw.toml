@@ -3,7 +3,6 @@ filename = "wired-redstone-0.7.3+1.20.1.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/lyYGrdho/versions/G0e73P8c/wired-redstone-0.7.3%2B1.20.1.jar"
 hash-format = "sha512"
 hash = "8bcbb89e4106080acb8967f24dd6ee96f76561f312e6df16660bc7cadd0eadff715d3ff1d29faad9a842a12a21a785e83688a3ac3ddeeb1b9a316b88c2301b18"

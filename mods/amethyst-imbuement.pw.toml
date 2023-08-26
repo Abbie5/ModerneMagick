@@ -3,7 +3,6 @@ filename = "amethyst_imbuement-1.20.1-10.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/fThucCjR/versions/uhXXUNBv/amethyst_imbuement-1.20.1-10.jar"
 hash-format = "sha512"
 hash = "6541c8f70f8ce7c2758a2f97ae80b0002ff93f88d0b8620775f8f831ec239a8c9be80fe3d176422040903cebbe7d9c2708bbd39d99c9195af8917b6e7c190e39"

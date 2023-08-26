@@ -3,7 +3,6 @@ filename = "XaerosWorldMap_1.33.1_Fabric_1.20.jar"
 side = "client"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/NcUtCpym/versions/4PJpJJKj/XaerosWorldMap_1.33.1_Fabric_1.20.jar"
 hash-format = "sha512"
 hash = "b022ca7311fcaa31690e62c0c8d695481eba54e5d9b45cfbcfb24733a789b4905194995b8012f5798609b89f81845901f4451f0b4d2a1b851681eeecc1a47541"

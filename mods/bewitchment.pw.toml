@@ -3,7 +3,6 @@ filename = "bewitchment-1.20-6.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/AKbBSvuC/versions/MDlqsrqA/bewitchment-1.20-6.jar"
 hash-format = "sha512"
 hash = "bcc8f8afd5bc5dfd96608488ac424306a1a60c12cb7781e1f1be6ca2ac518585c442b859a6be7d64fb848002ae5ef4ccfba29752e7e9579d9dc48fcd67f90bb7"

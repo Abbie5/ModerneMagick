@@ -3,7 +3,6 @@ filename = "QDResLoader-2.0.1.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/8bvlUrBx/versions/a9DhVCQy/QDResLoader-2.0.1.jar"
 hash-format = "sha512"
 hash = "c5979819c867c9c3362b87a3853adc7ea61207211f7e0733ee017cc28461127400f5fad84059bd72bd1b3ce11c45d59a07b40f1182c6429fe70650f09a25801c"

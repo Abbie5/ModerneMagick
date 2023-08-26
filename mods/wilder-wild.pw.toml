@@ -3,7 +3,6 @@ filename = "WilderWild-2.1.2-Fabric+1.20.1.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/Ej7e0VCq/WilderWild-2.1.2-Fabric%2B1.20.1.jar"
 hash-format = "sha512"
 hash = "8382bc91442d21227a27936210b37604b457dc6f3baff989c1c5ba7ad7e11a019f9d0432143dfe5787360a314cc1626bd6f612b00adf7e2241044db878084609"
