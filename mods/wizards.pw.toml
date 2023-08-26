@@ -1,0 +1,14 @@
+name = "Wizards"
+filename = "wizards-fabric-0.9.20+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/NkGaQMDA/versions/q9ntmX5T/wizards-fabric-0.9.20%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "25a17ddeaadb34d413976236981783ba9642026104fb509376b81a12bf36f8563ac082fceee0b1a87f20db0703d91413bb783f55f1f07ee2f33ab2a5cc58c43f"
+
+[update]
+[update.modrinth]
+mod-id = "NkGaQMDA"
+version = "q9ntmX5T"

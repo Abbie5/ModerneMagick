@@ -1,0 +1,14 @@
+name = "Paladins & Priests"
+filename = "paladins-fabric-0.9.9+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/FxXkHaLe/versions/qePeuSz8/paladins-fabric-0.9.9%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "318361c8ffcfbb5e7439cc107f2de91af9b6dbde678bb7ac447f561ac47bc01f91ee5589a2a63ede7766947c13ae169b00f8728bacdc296436c6cf67a616d1cd"
+
+[update]
+[update.modrinth]
+mod-id = "FxXkHaLe"
+version = "qePeuSz8"
