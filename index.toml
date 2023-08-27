@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "68c94f68a06e92327c49bd7bb4207636fab852ead636de466233458ab7843434"
+hash = "2e4244d4053483e099bb2a1316dc390889efacaf78ece2497400a81ef8e15bd9"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "e883e33babb1d198bc86a68450ba17502f54d84a3210dab5f72d268d3b865046"
+hash = "b575abd737b815c00b45ce27c25d4f589d7658662ec0488e0e51c92a2d0e3e41"
 metafile = true
 
 [[files]]

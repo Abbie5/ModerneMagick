@@ -1,13 +1,13 @@
 name = "Spell Engine"
-filename = "spell_engine-fabric-0.9.29+1.20.1.jar"
+filename = "spell_engine-fabric-0.9.30+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XvoWJaA2/versions/zmkGvUFy/spell_engine-fabric-0.9.29%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/XvoWJaA2/versions/eqFj8Yg4/spell_engine-fabric-0.9.30%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "6a67acb28fe50f53be0f1a2b7edcb7ce0ca36112"
+hash = "d866dde77525e093902d00188ff6ee0647e148d6"
 
 [update]
 [update.modrinth]
 mod-id = "XvoWJaA2"
-version = "zmkGvUFy"
+version = "eqFj8Yg4"
