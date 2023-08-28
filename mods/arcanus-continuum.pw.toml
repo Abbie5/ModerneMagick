@@ -1,0 +1,13 @@
+name = "Arcanus: Continuum"
+filename = "arcanus-continuum-0.100.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f53d316897168cd28e9bb7c8633ed81a1c93bc78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4725161
+project-id = 905345

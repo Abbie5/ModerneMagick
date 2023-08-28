@@ -35,6 +35,11 @@ hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
 
 [[files]]
+file = "mods/arcanus-continuum.pw.toml"
+hash = "168a746e87f535a35f2981d90a794312e812c56fabef51fd7fb314ba5e1d5264"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
