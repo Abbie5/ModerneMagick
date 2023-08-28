@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-continuum.pw.toml"
-hash = "168a746e87f535a35f2981d90a794312e812c56fabef51fd7fb314ba5e1d5264"
+hash = "2b97682dbf5f952c8878242373728b9652d34e652a5be2dc46a17d43961c53a4"
 metafile = true
 
 [[files]]
@@ -245,6 +245,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "8c5609126c7a8d38b68c4df16f9e505c5aacdeda05d7a55cb661872db3831ae4"
 metafile = true
@@ -352,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "f09181414f182ca4499fa86cd1f0bacf33734a8b707d5d9dcbfd297f8e1953ff"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "f7ad9ca76758d862d549656cf94fbf996e7fb77d0d96c498a8094a591b5f566b"
 metafile = true
 
 [[files]]
