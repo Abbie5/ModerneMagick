@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "cdfba6239ea3dd9c111ebdca03626c3f179f7794ee146d0f043a82064ea39be1"
+hash = "b955450fc7798bd9490f24977a828a06aeee726198aacec1eef16703ab88fbc5"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "77c5a9f84f2ffb49e3db15cdf91ef289ddcf5aaebe7296e303d1d4ba637720ee"
+hash = "791a90759ea8cf32cda7d6dee3b115e3c6d747fa1d0f295bbd899b8ed7dab8f8"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "7c909411c0e8e7545ac2f827fb9452fa1a96fbd7be10f8065e1299c8647bfed1"
+hash = "682e9a58b1d2647c20a80239c983b597cf7a9faea89f9a599a52e0ebad7e2f9e"
 metafile = true
 
 [[files]]
@@ -371,17 +371,17 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "2e4244d4053483e099bb2a1316dc390889efacaf78ece2497400a81ef8e15bd9"
+hash = "d8f0d9bb005c382d17854586b3d68acc2e8a29ea878c07c54bc2403b66bfcc2b"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "045ea5d8d260ee82b5f9b8e048ce31ffd26299760896b3fdefb711a4293bb974"
+hash = "b6fa7f4f01759629a5800d099c0fc8e2ca9e06f3a2faf3d09f90cd2364d40a71"
 metafile = true
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
-hash = "925001f059b768db14b3bc08f54e1a627a2dc5ce51cc5197bb59a239a1c61617"
+hash = "370f549aeb1fb653346613a0e1a59986744d31e257675ae09fd6d3c3154271b5"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "51b9faf9525287adbfb5fa0733eb712f9fa48005ec2bcdad985580552f796419"
+hash = "b3a5eab61885e304f00e9979b34743955a92ce737cc70a6b41fe84ac01109237"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "b575abd737b815c00b45ce27c25d4f589d7658662ec0488e0e51c92a2d0e3e41"
+hash = "c127b2a1b61d7007708fb3f8d267d0635eff443479d11e51a43772df36813fc1"
 metafile = true
 
 [[files]]
