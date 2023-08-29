@@ -160,6 +160,11 @@ hash = "557361b486bf7c1f7f8e170218c09b38fd21d09236221e244fab11fe74303b80"
 metafile = true
 
 [[files]]
+file = "mods/experienced_crops.pw.toml"
+hash = "96933d7137dd25472c2057e093de87cf7f7d3c12aab36f17ae8b8a3d65c6623d"
+metafile = true
+
+[[files]]
 file = "mods/fabrication.pw.toml"
 hash = "2d2e46755efb50ba3f8ec9e2a49c854b76dd5c31cd64ad526a435d07f6259267"
 metafile = true
