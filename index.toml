@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "791a90759ea8cf32cda7d6dee3b115e3c6d747fa1d0f295bbd899b8ed7dab8f8"
+hash = "dd69a0653e7a377ca67eb94006123e3c299f0e086cca6790ae57a6f6d53aecab"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/where-is-it.pw.toml"
-hash = "2bb84f37ef24135dbea4c7da68a9f45655b8e302e185636c844ce15789d98ce2"
+hash = "efff1a30df1da36d2ce601c8cc4fc24bb5ae108f6462c7bd5add3ea3f537714b"
 metafile = true
 
 [[files]]
@@ -451,12 +451,12 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "1f86bbf321f45c7068c8cbfbbac276ddc31637c29344af3cbd139ef6d0c1bb26"
+hash = "93eed47c991fcccbdb68821d8854f6e1a0452a3de56628c410761a224fd341b4"
 metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "c127b2a1b61d7007708fb3f8d267d0635eff443479d11e51a43772df36813fc1"
+hash = "5e3748b991c800ef80bafe2639404fb84cbed28b7c211b7cd1f570fc80755055"
 metafile = true
 
 [[files]]
@@ -466,12 +466,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0e6c95ef1ccab7d1c56a0222ecc3072e1ac9dfae171ae860e3d0e9a1a008e529"
+hash = "b2dd36a482e7526f70823d742886030089c966ab8a94a1e63c2e92c48bb5863b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6c1a9c599f7c81d6c2f39533b335afe410a3beeb6d2b02b251ad74d5c7a34782"
+hash = "1cfb52ef509e73cd2df7d19af4fff3a5b2d46ebe5e2674257ce78e3f400bb66e"
 metafile = true
 
 [[files]]
